@@ -1,0 +1,11 @@
+{
+  "name": "npm-jzp-test",
+  "version": "1.0.0",
+  "description": "麦头条评论组件",
+  "main": "lib/npmJzpTest.js",
+  "files": [
+    "lib"
+  ],
+  "author": "zupeijiang"
+}
+  
